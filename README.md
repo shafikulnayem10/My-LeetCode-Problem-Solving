@@ -6,7 +6,7 @@
 
 
 A structured collection of my LeetCode problem-solving journey 🚀  
-Focused on mastering Data Structures & Algorithms for technical interviews and real-world problem solving.
+Focused on mastering Data Structures & Algorithms for real-world problem solving.
 
 ---
 
